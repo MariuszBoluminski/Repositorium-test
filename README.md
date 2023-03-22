@@ -1,1 +1,2 @@
 # Repositorium-test
+opis repozytorium
